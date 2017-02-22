@@ -1,0 +1,5 @@
+package subfolder
+
+func SomeFunc() {
+
+}
