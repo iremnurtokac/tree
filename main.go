@@ -11,7 +11,7 @@ func write(comp string, count int) {
 }
 
 func main() {
-	n := 4
+	n := 5
 
 	for k := 0; k < n; k++ {
 
